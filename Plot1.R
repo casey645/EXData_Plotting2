@@ -1,6 +1,5 @@
-# plot1.R
+## Question 1 - plot1
 #--------------------------
-# Bastiaan Quast
 # this file does the following
 # 1. download data from UCI Machine Learning Repository
 # 2. read the data into R
