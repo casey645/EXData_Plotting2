@@ -1,7 +1,6 @@
 # plot4.R
 #--------------------------
-# Bastiaan Quast
-# this file does the following
+# # this file does the following
 # 1. download data from UCI Machine Learning Repository
 # 2. read the data into R
 # 3. inspect and recode the data
